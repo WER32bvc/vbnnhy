@@ -1,5 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ WER32bvc /
-vbnnhy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/WER32bvc/vbnnhy)
 
 Click the icon above to deploy.
 
@@ -15,4 +14,4 @@ Path: keep this empty
 
 Network: ws
 
-Credit : https://github.com/teddysun/across
+Credit : https://github.com/WER32bvc/vbnnhy
