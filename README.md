@@ -14,4 +14,4 @@ Path: keep this empty
 
 Network: ws
 
-Credit : https://github.com/WER32bvc/vbnnhy
+Credit : https://github.com/teddysun/across
